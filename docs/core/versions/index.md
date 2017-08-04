@@ -1,6 +1,6 @@
 ---
 title: .NET Core versioning | Microsoft Docs
-description: Understand how .NET Core versioning works.
+description: Learn about the versioning scheme for .NET Core.
 keywords: .NET, .NET Core
 author: bleroy
 ms.author: mairaw
